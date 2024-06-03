@@ -1,0 +1,16 @@
+ .entire
+    {
+        background-image: url('C:\Jeeviha\bluebackground.avif');
+        background-repeat: no-repeat;
+        background-size: cover;
+        display: flex;
+        flex-direction: row; 
+        gap:30px;
+        justify-content: center;
+        align-items: center;
+        height:100vh;
+    }
+html,body
+{
+    height:100%;
+}

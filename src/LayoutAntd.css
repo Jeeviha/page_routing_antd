@@ -1,0 +1,16 @@
+/* .logoimg
+{
+    margin-right: auto;
+} */
+Header
+{
+    background-color:"#e0e6fe";
+    display:'flex';
+}
+/* title{
+    flex:"1";
+    text-align: center;
+} */
+html,body{
+    height: 100%;
+}
